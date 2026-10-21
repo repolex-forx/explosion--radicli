@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/explosion/radicli/commit/c472cf80939c0a8a5fde1f958d5af3f903ad195c",
       "git:hexsha": "c472cf80939c0a8a5fde1f958d5af3f903ad195c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T03:23:02.825190+00:00"
     },
     {
       "@id": "https://repolex.ai/r/explosion/radicli/commit/4f5fe4599fbd7c8dac3b99bf7a0344002f31c3f2",
