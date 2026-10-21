@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "radicli",
+  "versions": [
+    {
+      "commit": "c472cf80939c0a8a5fde1f958d5af3f903ad195c",
+      "tag": "",
+      "parsed_at": "2026-10-21T03:23:02.825777+00:00"
+    }
+  ]
+}
